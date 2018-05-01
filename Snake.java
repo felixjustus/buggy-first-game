@@ -1,5 +1,6 @@
 public class Snake {
   public static void main(String []args){
+    //how do i create an keylistener???
     //keys
     // final int left = KeyEvent.VK_LEFT;
     // final int up = KeyEvent.VK_UP;
